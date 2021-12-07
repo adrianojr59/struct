@@ -1,6 +1,6 @@
 Estrutura  De Dados Númericos vetores Bi Dimensional  C#  Dinamico
 vetores bi dimensional prototipo para criaçao ou reaproveitamento 
 preparado para  tri dimensão
-funçaõ buscar  editar apagar
+função editar apagar pesquisar
 
 
